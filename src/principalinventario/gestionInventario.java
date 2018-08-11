@@ -25,7 +25,7 @@ import org.jfree.data.category.DefaultCategoryDataset;
 
 /**
  *
- * @author Ingenieria Digital
+ * @author LeonarPC
  */
 public class gestionInventario extends javax.swing.JFrame {
 

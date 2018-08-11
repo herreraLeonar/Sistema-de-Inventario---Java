@@ -14,7 +14,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Ingenieria Digital
+ * @author LeonarPC
  */
 public class pintar extends Canvas {
 int MAXIMOPRODUCTOS=1000;

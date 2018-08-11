@@ -6,7 +6,7 @@ package principalinventario;
 
 /**
  *
- * @author Ingenieria Digital
+ * @author LeonarPC
  */
 public class PrincipalInventario {
 
